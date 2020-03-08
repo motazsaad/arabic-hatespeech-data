@@ -77,4 +77,5 @@ The annotation credibility was evaluated using several evaluation measures:
 }
 
    
+# Source http://hatespeechdata.com/ 
    
